@@ -1,4 +1,4 @@
-# Installing Resources
+# 00 - Intro: Installing Resources
 
 1. Using the [WPILib Installer](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html)
 to install all resources needed
