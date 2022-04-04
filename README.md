@@ -128,3 +128,10 @@ Video Tutorial: __coming soon__
 
 Learn how to implement advanced computer vision techniques and image processing
 to track targets on the field.
+
+## [17 - Advanced: Test Driven Development](./17-Advanced-Test-Driven-Development)
+
+Video Tutorial: __coming soon__
+
+Learn about how we can code robots without needing the physical robot present.
+Learn about things like simulation, unit testing, and integration testing.
