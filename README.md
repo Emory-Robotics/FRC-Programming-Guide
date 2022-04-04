@@ -120,3 +120,10 @@ Video Tutorial: __coming soon__
 
 Learn how to use Network Tables and share information between the robot and driver
 to help driver control as well as integrate other devices/microcontrollers.
+
+## [16 - Advanced: Vision](./16-Advanced-Vision)
+
+Video Tutorial: __coming soon__
+
+Learn how to implement advanced computer vision techniques and image processing
+to track targets on the field.
