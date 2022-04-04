@@ -24,9 +24,9 @@ Practice using the explorer menu through the following:
 create a simple document which describes the robot project you created.
 It must include:
 
-  a. Headers
-  b. Links
-  c. Code blocks
+  - Headers
+  - Links
+  - Code blocks
 
 ### Visual Studio Code: Source Control
 
