@@ -66,3 +66,5 @@ status of your repository.
 
 This is the icon that looks like a square. You will be able to explore the market
 place for extensions, color themes, and file icon themes.
+
+## [Code Lab](./code-lab/README.md)

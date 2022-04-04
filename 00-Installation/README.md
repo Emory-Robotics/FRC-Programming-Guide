@@ -13,3 +13,5 @@ to install all resources needed
     1. [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/)
     2. Guide: [https://www.chiefdelphi.com/t/guide-using-intellij-for-robot-projects/363754](https://www.chiefdelphi.com/t/guide-using-intellij-for-robot-projects/363754)
     3. Install WPILib Extension
+
+## [Code Lab](./code-lab/README.md)
