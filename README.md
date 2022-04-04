@@ -1,6 +1,7 @@
 # Programming for FRC - The Guide
 
-![https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white](#)
+![GitHub last commit](https://img.shields.io/github/last-commit/Emory-Robotics/FRC-Programming-Guide?label=Last%20Update&logo=FIRST)
+![GitHub issues](https://img.shields.io/github/issues/Emory-Robotics/FRC-Programming-Guide?label=Suggestions&logo=FIRST)
 
 Emory University Robotics Club
 
