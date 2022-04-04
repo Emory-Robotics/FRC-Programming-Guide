@@ -3,9 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Emory-Robotics/FRC-Programming-Guide?label=Last%20Update&logo=FIRST)
 ![GitHub issues](https://img.shields.io/github/issues/Emory-Robotics/FRC-Programming-Guide?label=Suggestions&logo=FIRST)
 
-Emory University Robotics Club
-
-Last Updated: 04/04/2022
+Written by Emory University Robotics Club
 
 This is a guide to FIRST Robotics Programming Training.
 This guide will cover all the topics needed to help train you
