@@ -5,6 +5,8 @@
 
 Written by Emory University Robotics Club
 
+## Introduction
+
 This is a guide to FIRST Robotics Programming Training.
 This guide will cover all the topics needed to help train you
 on how to program a robot from scratch! Each section will have a
