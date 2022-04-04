@@ -2,7 +2,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Emory-Robotics/FRC-Programming-Guide?label=Last%20Update&logo=FIRST)
 ![GitHub issues](https://img.shields.io/github/issues/Emory-Robotics/FRC-Programming-Guide?label=Suggestions&logo=FIRST)
-![Release Date](https://img.shields.io/badge/Release%20Date-August%202022-brightgreen)
+![Release Date](https://img.shields.io/badge/Release%20Date-August%202022-brightgreen&logo=FIRST)
 
 Maintained by Emory University Robotics Club
 
