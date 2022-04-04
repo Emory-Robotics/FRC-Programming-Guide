@@ -1,4 +1,4 @@
-# Programming for FRC - The Guide
+# FRC Programming - The Guide
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Emory-Robotics/FRC-Programming-Guide?label=Last%20Update&logo=FIRST)
 ![GitHub issues](https://img.shields.io/github/issues/Emory-Robotics/FRC-Programming-Guide?label=Suggestions&logo=FIRST)
