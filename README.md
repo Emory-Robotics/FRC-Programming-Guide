@@ -1,6 +1,8 @@
 # Programming for FRC - The Guide
 
-Emory University - Robotics Club
+![https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white](#)
+
+Emory University Robotics Club
 
 Last Updated: 04/04/2022
 
