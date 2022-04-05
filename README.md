@@ -81,11 +81,11 @@ Video Tutorial: **coming soon**
 Learn about controls engineering and how we can achieve smooth robotic control using
 PID and controls engineering in systems such as elevators or drive trains.
 
-## [10 - Intermediate: Interpolation](./10-Intermediate-Interpolation)
+## [10 - Intermediate: Regression](./10-Intermediate-Regression)
 
 Video Tutorial: **coming soon**
 
-Learn about how we can use interpolation to provide dynamic robotic control and functionality
+Learn about how we can use regression and interpolation to provide dynamic robotic control and functionality
 in systems such as ball shooters which can shoot from any range.
 
 ## [11 - Intermediate: State Machines](./11-Intermediate-State-Machines)
