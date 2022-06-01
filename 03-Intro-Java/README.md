@@ -4,7 +4,15 @@
 
 ## What is Java
 
+Java is a very popular programming language that can be used for a wide variety
+of purposes! In our case, we can use Java to program the RoboRIO, which allows
+us to control the electronics on our robot. This includes sensors, motors, and pneumatics!
+
 ## Why Java
+
+In addition to Java, we can use C++ and LabView to program FIRST robots. We choose
+Java because it is easier to work with and commonly taught in schools today!
+Furthermore, most Universities in College start their introductory courses in Java.
 
 ## Required Java Tutorial:
 
