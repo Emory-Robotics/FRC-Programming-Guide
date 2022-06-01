@@ -1,35 +1,45 @@
 # 03 - Intro: Java
 
+
+
 ## What is Java
 
 ## Why Java
 
-## Basic Java Program Structure
+## Required Java Tutorial:
 
-## Hello World
+[![Java Derek](https://img.youtube.com/vi/n-xAqcBCws4/default.jpg)](https://www.youtube.com/watch?v=n-xAqcBCws4)
 
-## How to run Java files
+**Things to remember:**
 
-## What is a data type
+- Basic Java Program Structure
+- How to run Java files
+- Primitive data types
+- Creating variables
+- Classes
+- Enums
+- If-Else statements
+- While Loops
+- For Loops
+- Creating Methods
+  - Visibility
+  - Return Type
+  - Parameters
+- Packages
+- Importing other Classes
+- Inheritence
+- Maps
 
-### Primitive data types
+## Recommend Video Series (23h)
 
-### Classes
+**NOTE:** DO NOT try to understand everything in this series and feel free
+jump around and watch videos you are interested on or need more help with.
 
-### Enums
+This is a rapid college course, and though a great resource, it can be
+dense and difficult to process in one sitting. It is recommend that you watch
+the above video first and use this series to supplement any topics you may
+want more information on.
 
-## Creating variables
+[MIT OpenCourseware Java Series](https://www.youtube.com/watch?v=k6U-i4gXkLM&list=PL0065A2C3177ACC8A&index=1)
 
-## If-Else statements
-
-## While Loops
-
-## For Loops
-
-## Creating Methods
-
-### Visibility
-
-### Return Type
-
-### Parameters
+## [Codelab](./code-lab/README.md)
