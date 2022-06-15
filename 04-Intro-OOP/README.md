@@ -1,23 +1,19 @@
 # 04 - Intro: Object Oriented Programming
 
-## What are objects
+Watch the following video to learn about Object Oriented Programming (OOP):
 
-### Object Class
+[![Intro OOP](https://img.youtube.com/vi/pTB0EiLXUC8/default.jpg)](https://www.youtube.com/watch?v=pTB0EiLXUC8)
 
-## What Are Classes
+**Things to remember:**
 
-## How to Create Classes
+- What is encapsulation and its benefits
+- What is abstraction and its benefits
+- What is inheritence and its benefits
+- What is polymorphism and its benefits
 
-## How to Instantiate Classes
+## Notes
 
-## Reminder About Visibility
-
-## 3 Pillars of OOP
-
-### Inheritance
-
-### Polymorphism
-
-### Encapsulation
-
-## Exaggerated Example of Why OOP is Useful
+The higher level concepts of Object Oriented Programming are difficult to understand.
+Do not be discouraged if these concepts are not immediately clear to you.
+They will be become something you subconciously think and plan about the more
+practice you have and better programmer you become.
