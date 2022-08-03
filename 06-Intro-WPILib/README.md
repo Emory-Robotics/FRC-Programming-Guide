@@ -18,14 +18,14 @@
 
 ### Joysticks
 
-![[motors](https://img.youtube.com/vi/EUGis3jkd0M/default.jpg)](https://www.youtube.com/watch?v=EUGis3jkd0M)
+[![motors](https://img.youtube.com/vi/EUGis3jkd0M/default.jpg)](https://www.youtube.com/watch?v=EUGis3jkd0M)
 
 ### NavX
 
 Only the first 3 minutes are relevant:
-![[NavX](https://img.youtube.com/vi/nIu_qXKjqbU/default.jpg)](https://www.youtube.com/watch?v=nIu_qXKjqbU)
+[![NavX](https://img.youtube.com/vi/nIu_qXKjqbU/default.jpg)](https://www.youtube.com/watch?v=nIu_qXKjqbU)
 
 ### Encoders
 
 Only the first 20 minutes are relevant:
-![[motors](https://img.youtube.com/vi/JDbronOFiq4/default.jpg)](https://www.youtube.com/watch?v=JDbronOFiq4)
+[![motors](https://img.youtube.com/vi/JDbronOFiq4/default.jpg)](https://www.youtube.com/watch?v=JDbronOFiq4)

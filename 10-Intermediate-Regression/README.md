@@ -25,7 +25,7 @@ Watch [What is Interpolation and Extrapolation](https://www.youtube.com/watch?v=
 
 There are a lot of ways that we can perform regression. Though some techniques more advanced than others, regression does not need to be complicated. In fact, it can be done automatically for us using Google Sheets.
 
-![[regression in google sheets](https://img.youtube.com/vi/sz7cZ92xWn0/default.jpg)](https://www.youtube.com/watch?v=sz7cZ92xWn0)
+[![regression in google sheets](https://img.youtube.com/vi/sz7cZ92xWn0/default.jpg)](https://www.youtube.com/watch?v=sz7cZ92xWn0)
 
 You should be able to answer:
 
