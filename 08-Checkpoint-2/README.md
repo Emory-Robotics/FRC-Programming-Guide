@@ -14,4 +14,4 @@
 
 - to allow for simulator use, make sure to put wrap this in a [simulation check](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/robot-simulation/simulation-gui.html#determining-simulation-from-robot-code)
 
-### Test you code using the robot simulator and verify that all motors return appropriate values when triggered and the solenoids fire when buttons are pressed.
+### Test your code using the robot simulator and verify that all motors return appropriate values when triggered and the solenoids fire when buttons are pressed.
