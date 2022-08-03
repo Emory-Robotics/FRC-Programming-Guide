@@ -29,6 +29,7 @@ In this checkpoint, you will be implementing a simulation of pong!
     - `public Ball(int fieldWidth, int fieldHeight)`
 
     - `public void update()` - overrides the `Shape class`. Move the ball across the field, and consider collisions with the width and height of the field.
+    - `public int scored()` - checks if the ball entered a goal area. Reset the ball to the center if scored. Return 0 for no score, 1 for X player score and -1 for Y player score.
 
     - `public void xCollide()` - should invert xSpeed
     - `public void yCollide()` - should invert ySpeed
@@ -49,4 +50,4 @@ In this checkpoint, you will be implementing a simulation of pong!
     - `Paddle rightPaddle`
 
     - `public void start()` - should instantiate all game objects
-    - `public void run()` - should call ball & paddle updates
+    - `public void run()` - should call ball & paddle updates and if ball was scored.

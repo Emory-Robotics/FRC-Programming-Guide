@@ -1,0 +1,48 @@
+{
+  "HALProvider": {
+    "Other Devices": {
+      "Compressor[0]": {
+        "header": {
+          "open": true
+        }
+      }
+    },
+    "PWM Outputs": {
+      "window": {
+        "visible": true
+      }
+    },
+    "Solenoids": {
+      "0": {
+        "header": {
+          "open": true
+        }
+      },
+      "window": {
+        "visible": true
+      }
+    }
+  },
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/MotorSubsystem": "Subsystem",
+      "/LiveWindow/SolenoidSubsystem": "Subsystem",
+      "/LiveWindow/Ungrouped/PWMTalonFX[0]": "Motor Controller",
+      "/LiveWindow/Ungrouped/Scheduler": "Scheduler"
+    }
+  },
+  "NetworkTables": {
+    "LiveWindow": {
+      "SolenoidSubsystem": {
+        "open": true
+      },
+      "Ungrouped": {
+        "Solenoid[1,0]": {
+          "open": true
+        },
+        "open": true
+      }
+    }
+  }
+}
