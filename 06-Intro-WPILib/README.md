@@ -6,15 +6,15 @@
 
 ### Motors
 
-![[motors](https://img.youtube.com/vi/EUGis3jkd0M/default.jpg)](https://www.youtube.com/watch?v=EUGis3jkd0M)
+[![motors](https://img.youtube.com/vi/EUGis3jkd0M/default.jpg)](https://www.youtube.com/watch?v=EUGis3jkd0M)
 
 ### Solenoids
 
-![[solenoids](https://img.youtube.com/vi/52HhOHwS1X8/default.jpg)](https://www.youtube.com/watch?v=52HhOHwS1X8)
+[![solenoids](https://img.youtube.com/vi/52HhOHwS1X8/default.jpg)](https://www.youtube.com/watch?v=52HhOHwS1X8)
 
 ### Limit Switches
 
-![[motors](https://img.youtube.com/vi/EUGis3jkd0M/default.jpg)](https://www.youtube.com/watch?v=EUGis3jkd0M)
+[![motors](https://img.youtube.com/vi/EUGis3jkd0M/default.jpg)](https://www.youtube.com/watch?v=EUGis3jkd0M)
 
 ### Joysticks
 
