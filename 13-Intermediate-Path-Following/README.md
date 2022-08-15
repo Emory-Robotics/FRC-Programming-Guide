@@ -35,3 +35,6 @@ Smooth splines and paths are typically more consistent, safer, and accurate.
 ### Implementing Path Following using a Ramsete Controller
 
 [![Ramsete Controller Tutorial](https://img.youtube.com/vi/wqJ4tY0u6IQ/default.jpg)](https://www.youtube.com/watch?v=wqJ4tY0u6IQ)
+
+Note, that to use the Ramsete Controller, you may need to characterize your drive  train. This process will help you tune
+your superstructure for smooth path following.
